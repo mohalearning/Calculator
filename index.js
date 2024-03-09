@@ -38,4 +38,3 @@ function operate(number1, number2, operation) {
             return modulo(number1, number2);
     }
 }
-
